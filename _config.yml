@@ -23,7 +23,7 @@ description: Geek | Technologist | Speaker
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  🙋‍♂️ About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
