@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Who am I and what do I do?
+title: About Me
+subtitle: Who the heck is this guy anyway?
 ---
 
-<p style="text-align: left;">Hi there, I'm James and I am a Technology Strategist at Microsoft UK. I currently work with some of Microsoft UK's biggest partners on helping them shape, build and execute their technology strategy with Microsoft's products and services.</p>
+<p style="text-align: left;">I'm James and I am a Technology Strategist at Microsoft in the UK. I currently work with some of Microsoft UK's biggest partners on helping them shape, build and execute their technology strategy with Microsoft's products and services.</p>
 
 <p style="text-align: left;">I started my career in IT in the real world; as an IT Technician in a local secondary school. After becoming a Network Manager I took a career break to go to Reading University in 2008 to study Information Technology.</p>
 
