@@ -7,7 +7,7 @@ comments: true
 
 Remember 2010? In technology terms, 2010 was a century ago. Yet, plenty of small businesses around the world still run&nbsp;applications and servers from that era today. Microsoft's Small Business Server 2011 is just one example. 2010 also marks an important milestone in the development of the modern "cloud" we use today as it's the year Microsoft launched Windows Azure and Office 365.
 
-It's fair to say that a lot has changed since 2010. We can now provision entirely reimagined productivity scenarios in seconds. We can give our customers access to their data, applications and&nbsp;<em>their customers</em> anywhere, anytime and on any device. We're very much in the middle of the "<a href="http://jamesbmarshall.com/about/how-will-you-use-yours/">digital transformation</a>" movement. The pace of change doesn't appear to be slowing down anytime soon either, with machine learning, artificial intelligence and chat&nbsp;bot technologies all promising to continue to redefine what it means to provide IT services both as a customer and as a partner.
+It's fair to say that a lot has changed since 2010. We can now provision entirely reimagined productivity scenarios in seconds. We can give our customers access to their data, applications and&nbsp;<em>their customers</em> anywhere, anytime and on any device. We're very much in the middle of the "digital transformation" movement. The pace of change doesn't appear to be slowing down anytime soon either, with machine learning, artificial intelligence and chat&nbsp;bot technologies all promising to continue to redefine what it means to provide IT services both as a customer and as a partner.
 
 Knowing where to start helping your customers on this journey can be difficult, but I'm sure you'd agree that leaving them where they are today, on rapidly ageing technology, does nobody any favours.
 <h2>What is Small Business Server 2011?</h2>
@@ -33,7 +33,7 @@ In an on-premises world, it's slightly different. Microsoft has a well-documente
 | Exchange Server 2010 SP3 | 13/01/2015 | 14/01/2020 |
 | SharePoint Foundation 2010 SP2 | 13/10/2015 | 13/10/2020 |
 | SQL Server 2008 R2 SP3 | 08/07/2014 | 09/07/2019 |
-| WSUS 3.0 SP2 | 10/07/2012 | 14/01/202
+| WSUS 3.0 SP2 | 10/07/2012 | 14/01/2020 |
 
 <p style="text-align: left;">Note that this is assuming that each feature is fully patched to the latest service pack; &nbsp;this&nbsp;won't be the case for every customer. Even so, they're all out of mainstream support with the clock ticking for the end of extended support. 2020 might seem like the distant future but when you have several customers all requiring some kind of migration work it's amazing how quickly those deadlines will be on top of us.</p>
 <p style="text-align: left;">Lifecycle isn't the only consideration. As trusted advisors and technology partners for small businesses, there's a value element. By allowing customers to continue to use Small Business Server 2011 without a plan to move to a modern cloud platform you could be considered to be ignoring a huge opportunity to add considerable value. You could help them to work anywhere, anytime. Transform their approach to security. Reduce their costs of running IT. From a business perspective, you also miss out on the benefits of building a valuable annuity stream and risk your long-standing customer relationships being usurped by a competitor who'll transform your customers before you get a chance.</p>
@@ -52,7 +52,7 @@ This freely available solution allows you to take some very basic customer infor
 
 The solution was designed to be easy to use, and highly reusable but they aren't meant to be the end of the support you get. There are other resources to help:
 <ul>
- 	<li>SMB Cloud Enablement Guide: https://aka.ms/cloudenablementguide</li>
+ 	<li>SMB Cloud Enablement Guide: <a href="https://aka.ms/cloudenablementguide">https://aka.ms/cloudenablementguide</a></li>
 </ul>
 <ul>
  	<li>Follow the online learning materials on the UK Partner Upskill site: <a href="https://aka.ms/upskill">https://aka.ms/upskill</a></li>
