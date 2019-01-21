@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Move Small Business Server to Microsoft Azure
-tags: [windows server 2008, SQL server 2008, end of support]
+tags: [Azure, business cloud storage, cloud server for small business, cloud storage solutions, Digital Transformation, Microsoft Partner, Office 365]
 comments: true
 ---
 
