@@ -27,12 +27,13 @@ Software has a shelf life. In a cloud world, software gets updated all the time.
 
 In an on-premises world, it's slightly different. Microsoft has a well-documented product lifecycle for its on-premises services and software. In terms of SBS 2011, the table below shows the lifecycle status for each of the component features:
 
-| Number | Next number | Previous number |
+| Product | Mainstream End | Extended End |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Windows Server 2008 R2 SP1 | 13/01/2015 | 14/01/2020 |
+| Exchange Server 2010 SP3 | 13/01/2015 | 14/01/2020 |
+| SharePoint Foundation 2010 SP2 | 13/10/2015 | 13/10/2020 |
+| SQL Server 2008 R2 SP3 | 08/07/2014 | 09/07/2019 |
+| WSUS 3.0 SP2 | 10/07/2012 | 14/01/202
 
 <p style="text-align: left;">Note that this is assuming that each feature is fully patched to the latest service pack; &nbsp;this&nbsp;won't be the case for every customer. Even so, they're all out of mainstream support with the clock ticking for the end of extended support. 2020 might seem like the distant future but when you have several customers all requiring some kind of migration work it's amazing how quickly those deadlines will be on top of us.</p>
 <p style="text-align: left;">Lifecycle isn't the only consideration. As trusted advisors and technology partners for small businesses, there's a value element. By allowing customers to continue to use Small Business Server 2011 without a plan to move to a modern cloud platform you could be considered to be ignoring a huge opportunity to add considerable value. You could help them to work anywhere, anytime. Transform their approach to security. Reduce their costs of running IT. From a business perspective, you also miss out on the benefits of building a valuable annuity stream and risk your long-standing customer relationships being usurped by a competitor who'll transform your customers before you get a chance.</p>
