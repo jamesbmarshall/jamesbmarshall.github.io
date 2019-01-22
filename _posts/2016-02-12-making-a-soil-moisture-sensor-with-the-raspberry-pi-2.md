@@ -3,12 +3,11 @@ layout: post
 title: Making a soil moisture sensor with the Raspberry Pi 2
 tags: [Python, Raspberry Pi]
 comments: true
-instagram: BBey0lzuVac
+bigimg: /img/soil_cropped_big.jpg
+image: /img/soil_cropped_small.png
 ---
 
 It's been a while since I did <a href="http://www.jamesbmarshall.com/2015/04/python-4-bit-led-counter-on-raspberry-pi-2/">anything productive</a> with my Raspberry Pi 2, but my recent purchase of a Yucca made me think about how I could use it for something intelligent, like Making a soil moisture sensor with the Raspberry Pi 2. This post is really aimed at saving you a lot of time hunting around for all the information you need. I had to browse a tonne of sites to find all the bits and pieces, but eventually I got it all to work as I expected.
-
-{% include insta.html id=page.instagram %} 
 
 First of all, the hardware. I had some bits and pieces lying around already; mainly some connecting wires and a spare breadboard. The only two components I had to buy were:
 <ul>
