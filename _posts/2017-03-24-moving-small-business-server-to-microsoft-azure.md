@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Move Small Business Server to Microsoft Azure
-tags: [Azure, business cloud storage, cloud server for small business, cloud storage solutions, Digital Transformation, Microsoft Partner, Office 365]
+tags: [Microsoft Azure, business cloud storage, cloud server for small business, cloud storage solutions, Digital Transformation, Microsoft Partner, Office 365]
 comments: true
 ---
 
