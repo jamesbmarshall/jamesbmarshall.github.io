@@ -85,7 +85,7 @@ GPIO.cleanup()
 <h3>The Counter in Action</h3>
 Here it is in action:
 
-{% include youtubePlayer.html id=pmFQxSlr06Y %}
+{% include youtubeplayer.html id=pmFQxSlr06Y %}
 
 <h3>Next Steps</h3>
 There are some things I'd like to do before I consider this project complete:
