@@ -61,7 +61,7 @@ If you've got an existing FAQ page / pages that you want to include as part of c
 <h2>Training and testing the chatbot</h2>
 After creating the bot, you'll be able to view all the question &amp; answer pairs that have been detected. This view below shows the ones picked up from the<a href="https://partner.microsoft.com/en-GB/Solutions/cloud-reseller-FAQ" target="_blank" rel="noopener"> CSP FAQ page</a>. There are over 200 pairs!
 
-[caption id="attachment_2223" align="alignnone" width="1920"]<img class="alignnone size-full wp-image-2223" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/fireshot-capture-2-qna-maker_-https___qnamaker-ai_edit_knowledgebase.png" alt="fireshot-capture-2-qna-maker_-https___qnamaker-ai_edit_knowledgebase" width="1920" height="1028"> Checking out the auto-populated Q&amp;A pairs[/caption]
+<img width="778" src="../../../../img/fireshot-capture-2-qna-maker_-https___qnamaker-ai_edit_knowledgebase.png" alt="fireshot-capture-2-qna-maker_-https___qnamaker-ai_edit_knowledgebase">
 
 It's here that you can remove any questions that you don't need, add extra ones, re-word any answers and change the question language to be more "natural". Once you're happy with the questions you can click "Test" (on the left side of the screen) to start interacting with your bot!
 
