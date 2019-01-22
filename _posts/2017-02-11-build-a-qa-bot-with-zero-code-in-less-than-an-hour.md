@@ -55,7 +55,7 @@ I've built mine to have learned from the <a href="https://partner.microsoft.com/
 <h2>Creating the Q&amp;A chatbot</h2>
 The first step is to sign up for the <a href="http://qnamaker.ai" target="_blank" rel="noopener">QnA service</a>. Once you're in, head to "Create new service". You should see a simple form to fill in that looks like this:
 
-<img width="418" src="../../../../img/fireshot-capture-1-qna-maker-https___qnamaker-ai_create.png" alt="fireshot-capture-1-qna-maker-https___qnamaker-ai_create">
+<img width="778" src="../../../../img/fireshot-capture-1-qna-maker-https___qnamaker-ai_create.png" alt="fireshot-capture-1-qna-maker-https___qnamaker-ai_create">
 
 If you've got an existing FAQ page / pages that you want to include as part of creating the bot then you can list them out in the form. This saves a&nbsp;<em>huge</em> amount of time and means you have a great starting point from which to train your chatbot. You can also upload up to 5 files to the service if you have them stored in a&nbsp;.tsv, .pdf, .doc, or .docx format.
 <h2>Training and testing the chatbot</h2>
