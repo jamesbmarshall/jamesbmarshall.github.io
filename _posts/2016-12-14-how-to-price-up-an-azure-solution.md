@@ -3,8 +3,7 @@ layout: post
 title: How To Price Up An Azure Solution
 tags: [Microsoft Azure]
 comments: true
-bigimg: /img/botshot1.png
-image: /img/bot-framework.svg
+bigimg: /img/cash-register.png
 ---
 
 One of my most frequently asked questions is "how to price an Azure solution?". I must get asked at least 3 times a week, often more. It's a task that everyone who begins their journey to Microsoft Azure must go through and it is easier than you think.
@@ -37,8 +36,5 @@ The HealthCheck for Azure toolset is perfectly suited to helping you demonstrate
 The three tools in this post are just some of the resources available to help with gaining an understanding of how Azure works, how to price it and build a migration plan. Microsoft has also recently <a href="http://openedx.microsoft.com">made available a variety of online training materials</a> to complement your professional development and help you get on the path to certification.
 <h2>Webinar Walkthrough</h2>
 &nbsp;
-<div align="center">
 
 {% include vimeoPlayer.html id="195630596" %}
-
-</div>
