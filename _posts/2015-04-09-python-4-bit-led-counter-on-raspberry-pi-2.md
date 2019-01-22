@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make a 4-Bit LED Counter on Raspberry Pi 2 using Py
-tags: [programming, python]
+tags: [programming, Python, Raspberry Pi]
 comments: true
 ---
 
