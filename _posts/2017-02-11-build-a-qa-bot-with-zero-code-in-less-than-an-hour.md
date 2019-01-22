@@ -65,31 +65,32 @@ After creating the bot, you'll be able to view all the question &amp; answer pai
 
 It's here that you can remove any questions that you don't need, add extra ones, re-word any answers and change the question language to be more "natural". Once you're happy with the questions you can click "Test" (on the left side of the screen) to start interacting with your bot!
 
-[caption id="attachment_2226" align="alignnone" width="1532"]<img class="alignnone size-full wp-image-2226" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/qna.gif" alt="qna" width="1532" height="1020"> Testing the Q&amp;A Bot[/caption]
+<img width="778" src="../../../../img/qna.gif" alt="qna">
 
 The interface is quite intuitive and you can make edits to questions and answers on the fly. I found this particularly useful as I'd type questions in a "real life" fashion, and if I didn't get the answer I was expecting I could correct it immediately. Just remember to click "Save and retrain" to implement your changes!
 <h2>Creating an Azure Bot Service</h2>
 I'll assume that if you're this interested in creating a bot you'll have signed up for an Azure subscription or you'll have an existing one that you can use. If you don't, you can get <a href="https://azure.microsoft.com/en-gb/free/" target="_blank" rel="noopener">£150 free Azure credit by signing up</a>. Once you're into your Azure portal, create a new Bot Service by searching the Azure marketplace for "bot service", you should see it listed in the results:
 
-[caption id="attachment_2228" align="alignnone" width="1920"]<img class="alignnone size-full wp-image-2228" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/fireshot-capture-4-everything-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-4-everything-microsoft-azure_-https___ms-portal-azure-com_blade_" width="1920" height="1077"> Creating an Azure Bot Service[/caption]
+<img width="778" src="../../../../img/fireshot-capture-4-everything-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-4-everything-microsoft-azure_-https___ms-portal-azure-com_blade_">
 
 Follow the wizard to create the service, noting that you can add it to an existing Resource Group or create a new one. Once provisioned, navigate to the chatbot service where you'll see that you need to configure your App ID unique keys.
 
-[caption id="attachment_2229" align="alignnone" width="1920"]<img class="alignnone size-full wp-image-2229" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/fireshot-capture-5-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-5-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_" width="1920" height="1028"> Creating a Microsoft App ID[/caption]
+<img width="778" src="../../../../img/fireshot-capture-5-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-5-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_">
 
 Again, follow the guides here - they're very simple and just involve some copy and pasting into the right window. I'm not sure why this isn't simpler, but I'm sure in time this won't be such a faff! Once you've configured your App ID you'll find the greyed out content activated and you'll want to select "Question and Answer" from the array of options.
 
 This should pop up a box that'll allow you to select your QnA Maker bot:
 
-[caption id="attachment_2230" align="alignnone" width="1920"]<img class="alignnone size-full wp-image-2230" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/fireshot-capture-6-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-6-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_" width="1920" height="1028"> Connecting to QnA Maker[/caption]
+<img width="778" src="../../../../img/fireshot-capture-6-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-6-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_">
+
 <h2>Configuring the channels</h2>
 Once you're connected up you'll go to the Bot Service configuration page that'll default to the code view. Don't worry, this is a zero code walkthrough so you won't need to fiddle here (unless you want to!). We're interested in the "Channels" tab:
 
-<img class="alignnone size-full wp-image-2231" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/fireshot-capture-7-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-7-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_" width="1920" height="1028">
+<img width="778" src="../../../../img/fireshot-capture-7-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_.png" alt="fireshot-capture-7-bot-service-microsoft-azure_-https___ms-portal-azure-com_blade_">
 
 Since I've already built my chatbot, a number of channels are already activated. It's in this section that you can select which channels you want, and turn them on or off as required.
 <h2>Start chatting!</h2>
-[caption id="attachment_2235" align="aligncenter" width="336"]<img class="wp-image-2235 aligncenter" src="http://jamesbmarshall.com/wp-content/uploads/2017/02/chatbot.gif" alt="chatbot" width="336" height="491"> Chatting with the bot[/caption]
+<img src="../../../../img/chatbot.gif" alt="chatbot" width="336" height="491">
 
 You don't actually need to publish your chatbot to start interacting with it through your favourite channels. If you just want the chatbot for private or internal use then you can leave it unpublished; however, if you want it for public access, listing in directories etc. then it'll need to be subject to a quick review by Microsoft to ensure it meets the review&nbsp;guidelines.
 <h2>Further Reading</h2>
