@@ -14,7 +14,7 @@ It's not unrealistic to say that for small businesses and their technology partn
 <h2>Lockbox</h2>
 Having a solid process for managing access to customer data is essential when you're running a cloud service. For this reason, Microsoft adopts a lockbox method to restrict access to customer data for engineers. This access is just in time, and just enough.
 
-<img src="../../../../img/lockbox.png" alt="lockbox" height="253">
+<img src="../../../../img/lockbox.png" alt="lockbox" height="200">
 
 An engineer must submit a request along with a clear justification to the Lockbox system at which point a Microsoft manager must approve or reject access before any further action can be taken. It means that nobody - not even Microsoft - gets unfettered access without audit or accountability.
 <h2>If Office 365 is so secure, why do I need <em>Customer</em> Lockbox?</h2>
@@ -28,7 +28,7 @@ In the case of a support request, customers want to ensure that any access to th
 <h2>Office 365 Customer Lockbox</h2>
 Office 365 Customer Lockbox introduces an <strong>additional step</strong> in the process of providing access to your data to those who have a legitimate request.
 
-<img src="../../../../img/customer_lockbox.png" alt="customer_lockbox" height="286">
+<img src="../../../../img/customer_lockbox.png" alt="customer_lockbox" height="200">
 
 This flow shows how it works from creating a support request, to an engineer being granted access to a customer's data. Now there are two stages of approval that must be completed: first from a Microsoft manager, and then from the customer. If the customer doesn't respond, respond in time, or declines the request then no access is granted. <strong>It's this customer approval step that is what we refer to as Office 365 Customer Lockbox</strong>.
 
