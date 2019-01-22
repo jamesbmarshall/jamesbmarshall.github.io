@@ -28,7 +28,7 @@ In the case of a support request, customers want to ensure that any access to th
 <h2>Office 365 Customer Lockbox</h2>
 Office 365 Customer Lockbox introduces an <strong>additional step</strong> in the process of providing access to your data to those who have a legitimate request.
 
-<img class="alignnone size-full wp-image-1953" src="http://jamesbmarshall.com/wp-content/uploads/2017/01/customer_lockbox.png" alt="customer_lockbox" width="1822" height="286">
+<img src="../../../../img/customer_lockbox.png" alt="customer_lockbox" width="1822" height="286">
 
 This flow shows how it works from creating a support request, to an engineer being granted access to a customer's data. Now there are two stages of approval that must be completed: first from a Microsoft manager, and then from the customer. If the customer doesn't respond, respond in time, or declines the request then no access is granted. <strong>It's this customer approval step that is what we refer to as Office 365 Customer Lockbox</strong>.
 
@@ -38,7 +38,7 @@ All access is audited and available via the Office 365 Management Activity logs.
 <h2>Video Overview of Office 365 Customer Lockbox</h2>
 Take a look at this video from the Microsoft Mechanics team that covers an overview of how Customer Lockbox works, and how to activate it.
 
-{% include youtubeplayer.html id=rpznIuTGrSA %}
+{% include youtubeplayer.html id="rpznIuTGrSA" %}
 
 <h2>Summary</h2>
 Office 365 is a very secure productivity platform, and privacy is foremost in the minds of many customers. Office 365 Customer Lockbox introduces a step in the approval process beyond the regular Lockbox process to gain access to a customer's data that requires the customer to explicitly approve or reject access on a case by case basis. It is available as part of Office 365 Enterprise E5, and supplements the existing rigorous processes that Microsoft adheres to when providing cloud services.
