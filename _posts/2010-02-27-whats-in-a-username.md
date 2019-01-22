@@ -13,7 +13,7 @@ Take, for example, a simple email:
 
 <hr>
 
-<strong>To:</strong> jbloggs@emailprovider.com
+<strong>To:</strong> jbloggs@emailprovider.com<br />
 <strong>From:</strong> 98marshallj@stdingleberryschool.ac.uk
 
 Hello Joe,
