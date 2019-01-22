@@ -13,7 +13,7 @@ Take, for example, a simple email:
 
 <hr>
 
-<strong>To:</strong> jbloggs@emailprovider.com&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: right; border-top: 0px; border-right: 0px; padding-top: 0px" class="alignright size-medium wp-image-758" title="E
+<strong>To:</strong> jbloggs@emailprovider.com
 <strong>From:</strong> 98marshallj@stdingleberryschool.ac.uk
 
 Hello Joe,
