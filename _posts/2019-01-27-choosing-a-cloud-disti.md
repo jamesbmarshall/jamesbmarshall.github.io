@@ -9,6 +9,7 @@ comments: true
 My job is to work with IT distributors. Together with my team, we look after the top 10 Microsoft cloud distributors (also known as indirect CSP providers, or simply ‘indirect providers’) in the UK. In the last three years I’ve built up a pretty clear idea of what I would recommend any reseller look for when choosing a new indirect provider – and let me start by saying that price doesn’t come into it. At all.
 
 In fact, if your primary concern is about the price you’re quoted stop reading now! I can’t help you; just go with the lowest quote and good luck.
+
 Distributors – which is to say traditional ‘broadline’ distributors who ship hardware, packaged software and more – are facing an existential crisis: how do they avoid disintermediation in a cloud services world? It’s tempting to try and cut out the middle man and deal directly with the vendor when you don’t have a clear idea of what your indirect provider can do for you. Contrary to this temptation, I believe indirect providers have a critical role to play, but it’s an industry that is going through a slow and difficult transformation. That’s why I’ve written this post, and others that will follow.
 I want you to demand the best from your indirect providers, you deserve it and so do your customers.
 
