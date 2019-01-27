@@ -7,8 +7,9 @@ comments: true
 ---
 
 My job is to work with IT distributors. Together with my team, we look after the top 10 Microsoft cloud distributors (also known as indirect CSP providers, or simply ‘indirect providers’) in the UK. In the last three years I’ve built up a pretty clear idea of what I would recommend any reseller look for when choosing a new indirect provider – and let me start by saying that price doesn’t come into it. At all.
-In fact, if you’re primary concern is about the price you’re quoted stop reading now! I can’t help you; just go with the lowest quote and good luck.
-Distributors – which is to say traditional ‘broadline’ distributors who ship hardware, packaged software and more – are facing an existential crisis: how do they avoid disintermediation in a cloud services world? It’s tempting to try and cut out the middle man and deal directly with the vendor when you don’t have a clear idea of what your indirect provider can do for you. Contrary to this temptation, I believe indirect providers have a critical role to play but it’s an industry that is going through a slow and difficult transformation. That’s why I’ve written this post, and others that will follow.
+
+In fact, if your primary concern is about the price you’re quoted stop reading now! I can’t help you; just go with the lowest quote and good luck.
+Distributors – which is to say traditional ‘broadline’ distributors who ship hardware, packaged software and more – are facing an existential crisis: how do they avoid disintermediation in a cloud services world? It’s tempting to try and cut out the middle man and deal directly with the vendor when you don’t have a clear idea of what your indirect provider can do for you. Contrary to this temptation, I believe indirect providers have a critical role to play, but it’s an industry that is going through a slow and difficult transformation. That’s why I’ve written this post, and others that will follow.
 I want you to demand the best from your indirect providers, you deserve it and so do your customers.
 
 ### Walking the walk and talking the talk
@@ -21,7 +22,8 @@ Most indirect providers have some sort of pre-sales technical support, cloud arc
 
 3.	Do you have any case studies or public reference examples of where you’ve successfully helped a reseller like me to design or deliver a solution?
 
-You may decide that you’re more than competent with your own personnel. Many resellers aren’t, and they’re looking to start their transformation to using cloud services. Having a qualified, experienced helping hand can be the difference between building a long-lasting and successful relationship with your customers and failure.
+You may decide that you’re more than competent with your own personnel. Many resellers aren’t, and they’re looking to start their transformation to using cloud services. Having a qualified, experienced helping hand can be the difference between building a long-lasting and successful relationship with your customers, and failure.
+
 My top tip when gathering your answers is to look for documentation rather than anecdotes. Don’t listen to bluster and promise – an indirect provider worth their salt should be proud of their abilities to accelerate your success.
 Don’t be put off if the indirect provider has a commercial relationship with a third party to outsource this kind of thing. Many don’t have the means to provide this in-house, so they work with experienced organisations to deliver services on their behalf.
 
@@ -33,16 +35,17 @@ Just like technical resources, many indirect providers have a support desk. They
 
 2.	What are your support offerings, escalation processes and SLAs?
 
-3.	How do you maintain contact with me in the event of logging a service request?
+3.	How do you maintain contact in the event of me logging a service request?
 
-A mature, reliable indirect provider will be able to show you clearly and openly how they provide you support across all of Microsoft’s products and services. Some may have premium support offerings, but their free offering should be solid.
-You may think it goes without saying that your indirect provider can help you out in a bind, but challenging them to understand exactly what SLAs they adhere to, what escalation paths they offer, etc. is a useful way to test out how they might handle an actual request.
-Equally, asking about communication might seem odd. It’s not. When you’re in the middle of a crisis with your customer, open and regular communication is paramount. You’ll no doubt have experience just how frustrating and embarrassing it can be when you don’t hear anything from someone who’s apparently trying to help you. Even regular updates to say that there are no updates are better than silence. Regular and transparent communication helps ensure that tempers don’t fray, blame isn’t unfairly placed, and you can keep your customer in the loop on what’s happening.
+A mature, reliable indirect provider will be able to show you clearly and openly how they provide you support across all of Microsoft’s products and services. Some may have premium support offerings, but their free offering should be solid. You may think it goes without saying that your indirect provider can help you out in a bind, but challenging them to understand exactly what SLAs they adhere to, what escalation paths they offer, etc. is a useful way to test out how they might handle an actual request.
+
+Equally, asking about communication might seem odd. It’s not. When you’re in the middle of a crisis with your customer, open and regular communication is paramount. You’ll no doubt have experienced just how frustrating and embarrassing it can be when you don’t hear anything from someone who’s apparently trying to help you. Even regular updates to say that there are no updates are better than silence. Regular and transparent communication helps ensure that tempers don’t fray, blame isn’t unfairly placed, and you can keep your customer in the loop on what’s happening.
 
 ### I know Kung Fu
 
 Sadly, learning new skills isn’t as simple as having it uploaded to your brain like Neo in The Matrix. It takes time, commitment, practice and in many cases money to train on new platforms like Azure and its many constituent services.
-Your indirect provider has a vested interest in your success. After all, if you’re driving consumption of services like Azure then they’re going to see a bigger return through their margins, rebates and incentives just like you will. Therefore, ensuring you’re equipped to be successful with these services should be high up on their list of things they can help you with. When it comes to enablement, here’s what I’d be asking:
+
+Your indirect provider has a vested interest in your success. After all, if you’re driving consumption of services like Azure, then they’re going to see a bigger return through their margins, rebates and incentives just like you will. Therefore, ensuring you’re equipped to be successful with these services should be high up on their list of things they can help you with. When it comes to enablement, here’s what I’d be asking:
 
 1.	What joint commitments will we make to build my team’s skills and capabilities?
 
@@ -50,10 +53,14 @@ Your indirect provider has a vested interest in your success. After all, if you�
 
 3.	What are the steps I’ll go through on your enablement program, and how long does it take?
 
-As a business, you’re potentially worth a lot to your chosen indirect provider. It’s not unreasonable to expect that over an agreed term (such as a fiscal year) you would both sign up to some commitments to ensure you’re working in each other’s interests. For you, it might be commercial commitments to deliver a certain number of new customer adds, or achieve a milestone amount of monthly recurring revenue. For your distributor, it might be to provide you with access to certain courses, resources, events, coaching and so on to help accelerate your enablement. This should be clear, trackable and regularly reviewed. As all good partnerships should be.
-Understanding who’ll be working with you is important. You may not be a strategic account for your indirect provider and may not have dedicated 1:1 resources aligned to you, but there should be someone accountable for partner development with whom you’d have a relationship. Alternatively, this could be handled digitally through a form of learning platform akin to a MOOC or VLE. This is perfectly acceptable if it’s effective as it helps achieve a degree of scale and autonomy which is desirable for both parties.
+As a business, you’re worth a lot to your chosen indirect provider. It’s not unreasonable to expect that over an agreed term (such as a fiscal year) you would both sign up to some commitments to ensure you’re working in each other’s interests. For you, it might be commercial commitments to deliver a certain number of new customer adds, or achieve a milestone amount of monthly recurring revenue. For your distributor, it might be to provide you with access to certain courses, resources, events, coaching and so on to help accelerate your enablement. This should be clear, trackable and regularly reviewed. As all good partnerships should be.
+
+Understanding who’ll be working with you is important. You may not be a strategic account for your indirect provider and may not have dedicated 1:1 resources aligned to you, but there should be someone accountable for partner development with whom you’d have a relationship. Alternatively, this could be handled digitally through a form of learning platform akin to a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course "Massie open online course") or [VLE](https://en.wikipedia.org/wiki/Virtual_learning_environment "Virtual Learning Environment"). This is perfectly acceptable if it’s effective as it helps achieve a degree of scale and autonomy which is desirable for both parties.
+
 Lastly, but perhaps most importantly, your indirect provider should be able to show you documentation about their enablement program. It should be repeatable, complete with return on investment indicators, and a clear commitment to a timescale to ‘graduate’ you as a successful partner. Whether it takes three months or twelve, you should be clear on the program’s value.
 
 ### In conclusion
 
-In the annuity business model, the balance of power shifts. Once you’re signed up to an indirect provider, you’re less likely to change providers than when quoting for traditional software or hardware. There’s a risk your indirect provider takes your monthly revenues for granted. Indirect providers should be reinvesting some of their profits into supporting the success of their resellers through great value-added services, solutions and enablement programs. Don’t be afraid to take your business elsewhere if your indirect provider isn’t invested in you.
+In the annuity business model, the balance of power shifts in your favour. You're no longer placing an order here or there. You're committing to buildling a monthly revenue stream which earns you and your indirect provider some degree of front-end margin, rebates and incentives whether they're perceived to have added any value, or not. Once you’re signed up to an indirect provider, you’re less likely to change providers than when quoting for traditional software or hardware; as is the nature of a subscription service. There’s a risk your indirect provider takes your monthly revenues for granted. Indirect providers should be reinvesting some of their profits into supporting the success of their resellers through great value-added services, solutions and enablement programs. 
+
+Don’t be afraid to hold your indirect provider to a higher level of accountability than in the past, or to take your business elsewhere if your indirect provider isn’t invested in your success.
