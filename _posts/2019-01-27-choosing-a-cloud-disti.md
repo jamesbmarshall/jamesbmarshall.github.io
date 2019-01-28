@@ -4,7 +4,7 @@ title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part One - Competencies, Support and Skills
 summary: How should indirect CSP providers be helping you to be successful with cloud services?
 share-img: /img/disti_twitter_card.jpg
-tags: [CSP, cloud distribution]
+tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
 comments: true
 ---
 
