@@ -8,7 +8,7 @@ tags: [CSP, cloud distribution]
 comments: true
 ---
 
-My job is to work with IT distributors. Together with my team, we look after the top 10 Microsoft cloud distributors (also known as indirect CSP providers, or simply ‘indirect providers’) in the UK. In the last three years I’ve built up a pretty clear idea of what I would recommend any reseller look for when choosing a new indirect provider – and let me start by saying that price doesn’t come into it. At all.
+My job is to work with IT distributors. Together with my team, we look after the top 10 [Microsoft cloud distributors](https://www.microsoft.com/en-gb/partner/csp-directory/ "Microsoft UK CSP Partner Directory") (also known as indirect CSP providers, or simply ‘indirect providers’) in the UK. In the last three years I’ve built up a pretty clear idea of what I would recommend any reseller look for when choosing a new indirect provider – and let me start by saying that price doesn’t come into it. At all.
 
 In fact, if your primary concern is about the price you’re quoted stop reading now! I can’t help you; just go with the lowest quote and good luck.
 
