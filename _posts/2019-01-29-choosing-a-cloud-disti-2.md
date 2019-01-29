@@ -1,14 +1,14 @@
 ---
 layout: post
 title: What to look for when choosing a Microsoft Cloud Distributor
-subtitle: Part Two - Practices, Platforms and Partnerships
-summary: Part Two - Practices, Platforms and Partnerships
+subtitle: Part Two - Practices, Platforms, and Partnerships
+summary: Part Two - Practices, Platforms, and Partnerships
 share-img: /img/disti_twitter_card_2.jpeg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
 comments: true
 ---
 
-In the [first post of this mini-series](https://jamesbmarshall.com/2019/01/27/choosing-a-cloud-disti/ "Part One: Competencies, Support and Skills"), I gave examples of the questions you, as a Microsoft Reseller, might want to ask of a prospective indirect CSP provider. Building on competencies, support and skills this post focuses on areas around practice development, CSP platforms and partner-to-partner engagements.
+In the [first post of this mini-series](https://jamesbmarshall.com/2019/01/27/choosing-a-cloud-disti/ "Part One: Competencies, Support and Skills"), I gave examples of the questions you, as a Microsoft Reseller, might want to ask of a prospective indirect CSP provider. Building on competencies, support, and skills, this post focuses on areas around practice development, CSP platforms and partner-to-partner engagements.
 
 Indirect providers are actively focused on demonstrating how they add value to the relationship you build. It’s in their interest since both parties will see success each month through the various profit margins, rebates and incentives earned for every dollar spent on Microsoft products and services; particularly Microsoft Azure, Dynamics 365 and Microsoft 365. Crucially, it’s easier than ever for a reseller to switch providers – they have to work harder to keep your business. The conversation pivots away from price and margin towards value, growth, relationship and success. This isn’t unique to traditional ‘broadline’ distributors, but is a shift occurring across ‘born in the cloud’ challenger distributors also.
 
