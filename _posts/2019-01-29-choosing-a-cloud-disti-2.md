@@ -2,7 +2,7 @@
 layout: post
 title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part Two - Practices, Platforms and Partnerships
-summary: How should indirect CSP providers be helping you to be successful with cloud services?
+summary: Part Two - Practices, Platforms and Partnerships
 share-img: /img/disti_twitter_card_2.jpeg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
 comments: true
