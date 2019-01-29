@@ -3,14 +3,14 @@ layout: post
 title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part One - Competencies, Support and Skills
 summary: How should indirect CSP providers be helping you to be successful with cloud services?
-card: /img/disti_twitter_card.jpg
-tags: [CSP, cloud distribution]
+share-img: /img/disti_twitter_card.jpg
+tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
 comments: true
 ---
 
 My job is to work with IT distributors. Together with my team, we look after the top 10 [Microsoft cloud distributors](https://www.microsoft.com/en-gb/partner/csp-directory/ "Microsoft UK CSP Partner Directory") (also known as indirect CSP providers, or simply ‘indirect providers’) in the UK. In the last three years I’ve built up a pretty clear idea of what I would recommend any reseller look for when choosing a new indirect provider – and let me start by saying that price doesn’t come into it. At all.
 
-In fact, if your primary concern is about the price you’re quoted stop reading now! I can’t help you; just go with the lowest quote and good luck.
+In fact, if your primary concern is about the price you’re quoted, stop reading now! I can’t help you; just go with the lowest quote and good luck.
 
 Distributors – which is to say traditional ‘broadline’ distributors who ship hardware, packaged software and more – are facing an existential crisis: how do they avoid disintermediation in a cloud services world? It’s tempting to try and cut out the middle man and deal directly with the vendor when you don’t have a clear idea of what your indirect provider can do for you. Contrary to this temptation, I believe indirect providers have a critical role to play, but it’s an industry that is going through a slow and difficult transformation. That’s why I’ve written this post, and others that will follow.
 I want you to demand the best from your indirect providers, you deserve it and so do your customers.
@@ -19,7 +19,7 @@ I want you to demand the best from your indirect providers, you deserve it and s
 
 Most indirect providers have some sort of pre-sales technical support, cloud architects, etc. who can be on-hand to answer questions and support you through qualification and delivery of solutions. Some don’t. Here are my top questions to ask:
 
-1.	Do you have technical resources available to help me as my business builds confidence in delivering cloud solutions (such as using Microsoft Azure, Dynamics, Microsoft 365, etc.)?
+1.	Do you have technical resources available to help me as my business builds confidence in delivering cloud solutions (such as using Microsoft Azure, Dynamics 365, Microsoft 365, etc.)?
 
 2.	Do those technical resources have appropriate certifications to validate their skills (such as Microsoft exams including [70-533](https://www.microsoft.com/en-gb/learning/exam-70-533.aspx "70-533 Exam Details"), [70-535](https://www.microsoft.com/en-gb/learning/exam-70-535.aspx "70-535 Exam Details"), [AZ-300](https://www.microsoft.com/en-us/learning/exam-az-300.aspx "AZ-300 Exam Details"), etc.)?
 

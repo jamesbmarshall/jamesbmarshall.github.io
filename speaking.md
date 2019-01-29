@@ -3,7 +3,7 @@ layout: page
 title: 🎙 Speaking
 ---
 
-There's nothing I enjoy more than getting in front of an audience and talking about technology and its power to transform the way we live and do business. If you're looking for an industry speaker to support your event then <a href="http://jamesbmarshall.com/contact/">get in touch</a>!
+There's nothing I enjoy more than getting in front of an audience and talking about technology and its power to transform the way we live and do business. If you're looking for an industry speaker to support your event then get in touch!
 
 I like to cover topics including:
 <ul>
@@ -13,11 +13,7 @@ I like to cover topics including:
  	<li>Microsoft Office 365, Skype for Business</li>
  	<li>Microsoft Azure</li>
 </ul>
-<h2>Forthcoming Events</h2>
-<ul>
- 	<li><strong>2018-09-10</strong> | 🛠&nbsp;Storytelling &amp; Presentation Skills Workshop, TVP (Microsoft employees only)</li>
- 	<li><strong>2018-09-19</strong> | 🎙 intY <a href="https://www.intycloudfest.com/">CloudFest</a></li>
-</ul>
+
 <h2>Previous Event Highlights</h2>
 <ul>
  	<li><strong>2018</strong>&nbsp;| <a href="http://www.ingrammicrocloud.co.uk/cloud-summit-2018/">Ingram Micro UK Cloud Summit</a>, "Your competitor did these 3 things, you'll never guess what happened next...".</li>
