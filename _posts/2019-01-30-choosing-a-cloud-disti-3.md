@@ -3,7 +3,7 @@ layout: post
 title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part Three  - Role Modelling, Feedback and Leadership
 summary: Part Three  - Role Modelling, Feedback and Leadership
-share-img: /img/disti_twitter_card_2.jpeg
+share-img: /img/disti_twitter_card_3.jpeg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
 comments: true
 ---
@@ -43,7 +43,7 @@ An indirect provider worth listening to is one who provides regular, insightful 
 
 1.	Where can I follow your business and your people online to learn from them? (e.g. Twitter, LinkedIn, YouTube, blogs, podcasts etc.)
 
-2.	Do you have any Microsoft MVPs (Most Valuable Professionals) on your staff?
+2.	Do you have any [Microsoft MVPs](https://mvp.microsoft.com/en-us/Overview "MVP OvervieW") (Most Valuable Professionals) on your staff?
 
 3.	How will you help me keep up to date with the latest technology trends, opportunities and advances?
 
