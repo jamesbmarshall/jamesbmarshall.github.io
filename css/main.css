@@ -793,8 +793,8 @@ section.related ul li a.image {
   cursor: pointer;
 }
 
+
 section.related {
-  width: 750px;
 	margin-top: 60px;
 	}
 
@@ -802,4 +802,11 @@ section.related {
 		list-style: none;
 		}
 	}
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
 }
