@@ -786,7 +786,7 @@ td.gutter {
 section.related {
 	background: #F7F7F7;
 	margin-top: 60px;
-	padding: 60px;
+	padding: 10px;
 
 	@include media-breakpoint-down(xs) {
 		margin-top: 20px;
