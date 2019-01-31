@@ -783,6 +783,16 @@ td.gutter {
   font-size: 16px;
 }
 
+section.related ul li a.image {
+  background-position: center;
+  background-size: cover;
+  height: 240px;
+  width: 100%;
+  display: block;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
 section.related {
   width: 750px;
 	margin-top: 60px;
