@@ -791,5 +791,5 @@ section.related ul li a.image {
   display: block;
   margin-bottom: 15px;
   cursor: pointer;
-  list-style-type: none;
+  list-style: none;
 }
