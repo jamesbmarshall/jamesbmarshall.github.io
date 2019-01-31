@@ -1,10 +1,10 @@
-{% assign maxRelated = 3 %}
+{% assign maxRelated = 2 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 
 <section class="related">
 	<div class="container">
-		<h4>Related Posts</h4>
+		<h3>Related Posts</h3>
 		<ul class="row">
 		{% for post in site.posts %}
 			{% assign sameTagCount = 0 %}
