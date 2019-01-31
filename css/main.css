@@ -787,42 +787,10 @@ section.related {
 	background: #F7F7F7;
 	margin-top: 60px;
 	padding: 10px;
-
-	@include media-breakpoint-down(xs) {
-		margin-top: 20px;
-		padding: 20px;
 	}
 
 	ul {
-		margin: 40px 0;
-		padding: 0;
 		list-style: none;
-
-		@include media-breakpoint-down(xs) {
-			margin: 0;
-		}
-
-		li {
-
-			h5 {
-				font-size: 10px;
-				margin-bottom: 10px;
-				letter-spacing: 1px;
-			}
-
-			h3 {
-				font-size: 24px;
-			}
-
-			a.image {
-				background-position: center;
-				background-size: cover;
-				height: 240px;
-				width: 100%;
-				display: block;
-				margin-bottom: 15px;
-				cursor: pointer;
-			}
 		}
 	}
 }
