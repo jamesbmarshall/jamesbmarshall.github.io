@@ -27,7 +27,7 @@
 			{% if sameTagCount >= minCommonTags %}
 					<li class="col-lg-4 col-md-12">
 						<div class="main-image">
-							<a href="{{ post.url }}" class="image" style="background-image: url('{{ post.image }}');"></a>
+							<a href="{{ post.url }}" class="image" style="background-image: url('{{ post.share-img }}');"></a>
 						</div>
 						<h5>{{ post.categories | first }}</h5>
 						<h3><a href="{{ post.url }}">{{ post.title | replace: 'Review', '' }}</a></h3>
