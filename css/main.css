@@ -784,8 +784,8 @@ td.gutter {
 }
 
 section.related {
+  width: 750px;
 	margin-top: 60px;
-	padding: 10px;
 	}
 
 	ul {
