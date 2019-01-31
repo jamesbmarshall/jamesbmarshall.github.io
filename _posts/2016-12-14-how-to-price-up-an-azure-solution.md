@@ -4,6 +4,7 @@ title: How To Price Up An Azure Solution
 tags: [Microsoft Azure]
 comments: true
 bigimg: /img/cash-register.png
+share-img: /img/cash-register.png
 ---
 
 One of my most frequently asked questions is "how to price an Azure solution?". I must get asked at least 3 times a week, often more. It's a task that everyone who begins their journey to Microsoft Azure must go through and it is easier than you think.
