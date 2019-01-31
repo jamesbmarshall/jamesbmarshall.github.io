@@ -4,7 +4,7 @@ title: Windows Server 2008 End of Support
 subtitle: What to do if you're still running Windows Server 2008
 image: /img/servers-in-rack.jpg
 share-img: /img/servers-in-rack.jpg
-tags: [windows server 2008, SQL server 2008, end of support]
+tags: [windows server 2008, SQL server 2008, end of support, Microsoft Azure]
 comments: true
 ---
 

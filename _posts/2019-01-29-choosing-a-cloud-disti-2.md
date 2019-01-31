@@ -4,7 +4,7 @@ title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part Two - Practices, Platforms, and Partnerships
 summary: Part Two - Practices, Platforms, and Partnerships
 share-img: /img/disti_twitter_card_2.jpeg
-tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider]
+tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, Microsoft 365, Dynamics 365]
 comments: true
 ---
 In the [first post of this mini-series](https://jamesbmarshall.com/2019/01/27/choosing-a-cloud-disti/ "Part One: Competencies, Support and Skills"), I gave examples of the questions you, as a Microsoft Reseller, might want to ask of a prospective indirect CSP provider. Building on competencies, support, and skills, this post focuses on areas around practice development, CSP platforms and partner-to-partner engagements.

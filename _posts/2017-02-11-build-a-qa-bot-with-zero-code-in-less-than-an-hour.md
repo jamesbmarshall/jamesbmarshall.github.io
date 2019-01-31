@@ -2,7 +2,7 @@
 layout: post
 title: How To Build A Q&amp;A Chat Bot
 subtitle: With zero code, in less than an hour
-tags: [Azure Bot Service, Cognitive Services, Digital Transformation, Microsoft Azure, QnA Maker]
+tags: [Azure Bot Service, Cognitive Services, Digital Transformation, Microsoft Azure, QnA Maker, programming]
 comments: true
 bigimg: /img/botshot1.jpg
 share-img: /img/botshot1.jpg

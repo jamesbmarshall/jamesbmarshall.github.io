@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making a soil moisture sensor with the Raspberry Pi 2
-tags: [Python, Raspberry Pi]
+tags: [Python, Raspberry Pi, programming]
 comments: true
 bigimg: /img/soil_cropped_big.jpg
 image: /img/soil_cropped_small.jpg
