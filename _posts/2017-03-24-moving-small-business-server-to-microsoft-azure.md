@@ -63,7 +63,7 @@ The solution was designed to be easy to use, and highly reusable but they aren't
 <h2>Template Walkthrough</h2>
 Hans Demeyer, one of my colleagues from Microsoft's Western Europe subsidiary has recorded a great 5-minute walkthrough of the solution:
 
-https://youtu.be/Iw2HYlMo2r0
+{% include youtubeplayer.html id="Iw2HYlMo2r0" %}
 
 <h2>Next Steps</h2>
 Now that you've seen the template in action, it's time for you to grab it and try it out yourself. It's available from a couple of different sources:
