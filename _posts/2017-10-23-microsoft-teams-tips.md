@@ -14,7 +14,7 @@ I use a lot of different tools through the course of a normal day, and I bet you
 
 <h3>5. Team Photo</h3>
 
-<img src="https://jamesbmarshall.com/img/teams-1024x233.png" alt="Microsoft Teams Screenshot" width="444" height="101">
+<img src="https://jamesbmarshall.com/img/teams-1024x233.png" alt="Microsoft Teams Screenshot" width="444" height="101" class="center">
 
 Give your Team an identity by setting a "profile photo". The default is to use the first letter from the first two words in the team name, and that's not very inspiring. It says "I don't really care about this". Pick a picture to represent your team and members will feel like it's worth investing time in. It also helps your Team stand out.
 
@@ -22,7 +22,7 @@ In my day job, I'm working with three of Microsoft's partners. I collaborate wit
 
 <h3>4. Add some Tabs</h3>
 
-<img src="https://jamesbmarshall.com/img/teams_addins-870x1024.png" alt="Microsoft Teams Add Tab" width="307" height="361">
+<img src="https://jamesbmarshall.com/img/teams_addins-870x1024.png" alt="Microsoft Teams Add Tab" width="307" height="361" class="center">
 
 Think the Team Channels are just for chat? Think again! There are loads of additional tabs you can add to make your Channel even more useful to members. My personal favourites are Polly (great for creating polls quickly), and Excel because I work for Microsoft and I can't resist a spreadsheet.
 
@@ -30,7 +30,7 @@ Maybe you use Power BI to track the sales performance of your team? Add it as a 
 
 <h3>3. Mind your manners</h3>
 
-<img src="https://jamesbmarshall.com/img/teams_threads-1024x509.png" alt="Microsoft Teams Thread" width="548" height="272">
+<img src="https://jamesbmarshall.com/img/teams_threads-1024x509.png" alt="Microsoft Teams Thread" width="548" height="272" class="center">
 
 Not everyone who will be using Teams will be experienced in using similar tools. One of the great things about Teams is the ability to have persistent, threaded, conversations. Rather than lots of people typing over each other, it's possible to reply directly to someone's previous post. This means you keep the context of the conversation, and all the replies are easily found in one place. Of course, sometimes people aren't aware of this and just create new threads each and every time they post.
 
@@ -44,8 +44,7 @@ It's worth training some "champions" on best practice and etiquette when it come
 
 <h3>2. Invite others to join the team</h3>
 
-<img src="https://jamesbmarshall.com/img/teams_guests.png" alt="Teams Guests" width="404" 
-height="86">
+<img src="https://jamesbmarshall.com/img/teams_guests.png" alt="Teams Guests" width="404" height="86" class="center">
 
 I was so excited when the ability to add external guests to a Team was added to Microsoft Teams! Now I'm able to use all the features I use with my internal colleagues with my partners (who are all external to Microsoft). I have a singular view of all the documents we're sharing, ideas we're working on, metrics we're tracking, calls we're having, all from within Teams. I know that the information is safe, that each user has to be authenticated to access the content, and that they can’t pry into areas they don't have access.
 
