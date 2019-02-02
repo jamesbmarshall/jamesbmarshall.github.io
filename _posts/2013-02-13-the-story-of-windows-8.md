@@ -12,4 +12,4 @@ One of the more popular topics for feedback is Windows 8 and the new full-screen
 
 <h2>The Story of Windows 8</h2>
 
-<p align="center">{% include vimeoPlayer.html id="52173464" %}</p>
+<p class="center">{% include vimeoPlayer.html id="52173464" %}</p>
