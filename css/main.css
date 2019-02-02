@@ -798,11 +798,9 @@ section.related {
 	margin-top: 60px;
 	}
 
-	ul {
+section.related ul {
 		list-style: none;
 		}
-	}
-}
 
 .row {
   display: flex;
