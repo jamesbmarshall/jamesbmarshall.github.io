@@ -4,6 +4,7 @@ title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part Three  - Role Modelling, Feedback and Leadership
 summary: Part Three  - Role Modelling, Feedback and Leadership
 share-img: /img/disti_twitter_card_3.jpeg
+image: /img/disti_twitter_card_3_square.jpg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, Microsoft 365, Dynamics 365]
 comments: true
 ---

@@ -4,6 +4,7 @@ title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part Two - Practices, Platforms, and Partnerships
 summary: Part Two - Practices, Platforms, and Partnerships
 share-img: /img/disti_twitter_card_2.jpeg
+image: /img/disti_twitter_card_2_square.jpg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, Microsoft 365, Dynamics 365]
 comments: true
 ---

@@ -4,6 +4,7 @@ title: What to look for when choosing a Microsoft Cloud Distributor
 subtitle: Part One - Competencies, Support, and Skills
 summary: Part One - Competencies, Support, and Skills
 share-img: /img/disti_twitter_card.jpg
+image: /img/disti_twitter_card_square.jpg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, Microsoft 365, Dynamics 365]
 comments: true
 ---
