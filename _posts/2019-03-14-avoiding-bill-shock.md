@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Avoiding Azure Bill Shock
-subtitle: Tools for your management kit bag
-summary: Tools for your management kit bag
+subtitle: Tools for your Azure management kit bag
+summary: Tools for your Azure management kit bag
 share-img: /img/shock_twitter_card.jpg
 image: /img/shock.jpg
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, Azure Governance, bill shock, Azure Advisor, RBAC, Azure Policy, cost management]
