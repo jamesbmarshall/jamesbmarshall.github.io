@@ -51,3 +51,7 @@ This avoids the situation where an RI is purchased up front but has to be termin
 As well as the tools I've covered in this post, your Indirect CSP Provider should be able to support you with cost management tools, insights and analytics which can help you predict bills based on subscription burn rate, and historic useage. They should also be able to help you get up to speed on the best way to apply the Azure Governance tools, RBAC and Azure Advisor to support the development of your first solutions or projects on Azure.
 
 If they can't, now might be the perfect time to take a look at my mini-series on the types of [questions you might want to ask of your Microsoft Cloud Distributor](http://localhost:4000/2019/01/27/choosing-a-cloud-disti/).
+
+### A New Solution Opportunity ###
+
+There's a school of thought which says that incorporating the use of these tools and others like [Azure Security Center](https://azure.microsoft.com/en-gb/services/security-center/) should be baked in as part of the solutions you build, or the projects you deliver on Azure. That said, building an 'optimisation-' or 'monitoring-as-a-service' solution and turning it into a billable offering could be attractive to some partners. Particularly if you're inheriting somebody else's environment. Being able to go to market with a strong message around driving efficiency, cost effectiveness, and security can be a powerful differentiator from other Partners who just use Azure as a basic IaaS platform.
