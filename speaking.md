@@ -41,5 +41,5 @@ I like to cover topics including:
 </ul>
 <h2>Articles</h2>
 <ul>
- 	<li><b>2017 | </b>Fundraising Magazine - <a href="https://www.civilsociety.co.uk/fundraising/james-marshall-the-fundraising-sector-needs-to-utilise-big-data.html">The fundraising sector needs to utilise big data</a>&nbsp;(pay wall)</li>
+ 	<li><b>2017</b> | Fundraising Magazine - <a href="https://www.civilsociety.co.uk/fundraising/james-marshall-the-fundraising-sector-needs-to-utilise-big-data.html">The fundraising sector needs to utilise big data</a>&nbsp;(pay wall)</li>
 </ul>
