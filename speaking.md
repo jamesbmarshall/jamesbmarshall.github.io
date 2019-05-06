@@ -16,6 +16,7 @@ I like to cover topics including:
 
 <h2>Previous Event Highlights</h2>
 <ul>
+	<li><strong>2019</strong>&nbsp;| Arrow Vision Conference</li>
  	<li><strong>2018</strong>&nbsp;| <a href="http://www.ingrammicrocloud.co.uk/cloud-summit-2018/">Ingram Micro UK Cloud Summit</a>, "Your competitor did these 3 things, you'll never guess what happened next...".</li>
  	<li><strong>2018</strong> | Arrow ECS <a href="https://www.youtube.com/watch?v=K9d0Ec3S01w&amp;feature=youtu.be">The Future of Cloud Solutions</a>, keynote, digital transformation.</li>
  	<li><strong>2018</strong> | <a href="http://www.thinks3.co.uk/citc-conference-ready-to-take-off-raf-hendon/">University of Oxford and Cambridge IT Colleges Conference</a>, keynote, future of technology.</li>
