@@ -36,6 +36,7 @@ I like to cover topics including:
 </ul>
 <h2>Press</h2>
 <ul>
+	<li><strong>2019</strong> | CRN - <a href="https://www.channelweb.co.uk/crn-uk/news/3075356/microsoft-partners-shouldnt-be-threatened-by-azure-going-direct">Microsoft partners shouldn't be threatened by Azure going direct</a></li>
  	<li><strong>2017</strong> | ComputerWeekly.com -<strong>&nbsp;</strong><a href="http://www.computerweekly.com/microscope/news/450418694/Cloud-is-the-digital-transformation-keystone">Cloud is the digital transformation keystone</a></li>
  	<li><strong>2017</strong> | Comms Business - <a href="https://commsbusiness.co.uk/news/channel-live-interviews-james-marshal-cto-for-smb-microsoft/">Channel Live Interviews</a></li>
 </ul>
