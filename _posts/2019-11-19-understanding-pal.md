@@ -23,6 +23,8 @@ Ensuring you're using the right MPN ID to track your impact is important. In my 
 
 For PAL purposes, you should use the MPN ID which represents your Partner Location Account (PLA). A partner may have several PLAs under a Primary Global Account (PGA) so you should check which is the correct one to use for your customers.
 
+![Example of how PLAs nest under PGAs](../../../../img/pla_example.jpg "PLA example")
+
 In general, your PGA is used for non-transactional activities such as support requests. Your PLAs are used to enroll for incentives, transact CSP business, add new subscriptions, etc. If you are a multi-national company, or have different kinds of business unit under one organisation you may have cause to have many PLAs. For example, one in each geographic region you operate in. There's a [handy document about managing your partner account and locations](https://docs.microsoft.com/en-gb/partner-center/manage-locations) which I highly recommend taking a few minutes to read through.
 
 Once you've configured your ID against the subscriptions and resources that you manage, you can view your influenced revenue reporting on the [My Insights dashboard](https://partner.microsoft.com/membership/reports/myinsights).
