@@ -9,19 +9,21 @@ tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutio
 comments: true
 ---
 
-I spend a lot of my time talking to Microsoft Partners about they best way to get recognised for the work they do with customers and how they can best earn incentives for that work. I'm absoultely terrible at remembering all the details so this blog post is as much a reference for me as it is for you! The Partner Admin Link capability is critical for Microsoft Partners who do anything with Azure.
+I spend a lot of my time talking to Microsoft Partners about the best way to get recognised for the work they do with customers and how they can best earn incentives for that work. I'm absolutely terrible at remembering all the details so this blog post is as much a reference for me as it is for you! The Partner Admin Link capability is critical for Microsoft Partners who do anything with Azure.
 
 I will keep adding to this post as I find useful information or links relating to the PAL process.
 
 ## What is the Partner Admin Link?
 
-Simply put, the PAL is there to make it easy for partners to measure their influence over the Azure consumption they drive with their customers. Customers consume Azure services through a variety of means, such as PAYG through the web, purchasing on an Enterprise Agreement if they're a large organisation, or through a subscription model like the Cloud Solution Provider (CSP) program. PAL allows a partner to be recorgnised regardless of which model the customer chooses. It even supports mutiple partners who work on a single customer's subscription. It's all driven by adding your Microsoft Partner Network ID (MPN ID) which makes it simple to apply and manage.
+Simply put, the PAL is there to make it easy for partners to measure their influence over the Azure consumption they drive with their customers. Those customers consume Azure services through a variety of means, such as PAYG through the web, purchasing on an Enterprise Agreement if they're a large organisation, or through a subscription model like the Cloud Solution Provider (CSP) programme. PAL allows a partner to be recorgnised regardless of which model the customer chooses. It even supports mutiple partners who work on a single customer's subscription. It's all driven by associating your Microsoft Partner Network ID (MPN ID) which makes it simple to apply and manage.
 
 ## Sorting your MPN IDs out
 
 Ensuring you're using the right MPN ID to track your impact is important. In my experience, lots of partners fail to fully understand the [structure of the MPN ID in Partner Center](https://docs.microsoft.com/en-gb/partner-center/account-structure), so it's worth investing some time to understand it.
 
 For PAL purposes, you should use the MPN ID which represents your Partner Location Account (PLA). A partner may have several PLAs under a Primary Global Account (PGA) so you should check which is the correct one to use for your customers.
+
+In general, your PGA is used for non-transactional activities such as support requests. Your PLAs are used to enroll for incentives, transact CSP business, add new subscriptions, etc. If you are a multi-national company, or have different kinds of business unit under one organisation you may have cause to have many PLAs. For example, one in each geographic region you operate in. There's a [handy document about managing your partner account and locations](https://docs.microsoft.com/en-gb/partner-center/manage-locations) which I highly recommend taking a few minutes to read through.
 
 Once you've configured your ID against the subscriptions and resources that you manage, you can view your influenced revenue reporting on the [My Insights dashboard](https://partner.microsoft.com/membership/reports/myinsights).
 
