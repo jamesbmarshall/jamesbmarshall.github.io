@@ -4,7 +4,7 @@ title: Understanding the Partner Admin Link
 subtitle: Everything you need to know about getting started with PAL
 summary: Everything you need to know about getting started with PAL
 share-img: /img/shock_twitter_card.jpg
-image: /img/shock.jpg
+image: /img/pal_square.png
 tags: [CSP, cloud distribution, indirect CSP provider, 2-tier CSP, Cloud Solutions Provider, Microsoft Azure, incentives, PAL, partner admin link, DPOR, customer usage attribution, Microsoft Commerce Incentive, modern commerce, Microsoft Customer Agreement, new Azure plan]
 comments: true
 ---
