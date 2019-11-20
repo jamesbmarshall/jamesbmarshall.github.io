@@ -38,9 +38,9 @@ If you've been around a while as a partner you might find that you have existing
 * How to set up PAL: <br>
 [aka.ms/SetupPAL](https://aka.ms/SetupPAL) - Requires access to Partner University.<br><br>
 * Reporting and Analytics: Partner Center Dashboard: <br>
-[aka.ms/PartnerCenterDashboard](https://aka.ms/PartnerCenterDashboard) * Requires access to Partner Center.<br><br>
+[aka.ms/PartnerCenterDashboard](https://aka.ms/PartnerCenterDashboard) - Requires access to Partner Center.<br><br>
 * Microsoft Commerce Incentive (MCI) for Azure: <br>
-[aka.ms/partnerincentives](https://aka.ms/partnerincentives) * Requires access to Partner Center.<br><br>
+[aka.ms/partnerincentives](https://aka.ms/partnerincentives) - Requires access to Partner Center.<br><br>
 * Build a Managed-Services Practice: <br>
 [aka.ms/ManagedServicesProvider](https://aka.ms/ManagedServicesProvider)<br><br>
 * Azure Management Portal: <br>
