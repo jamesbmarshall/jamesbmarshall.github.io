@@ -15,7 +15,7 @@ I will keep adding to this post as I find useful information or links relating t
 
 ## What is the Partner Admin Link?
 
-Simply put, the PAL is there to make it easy for partners to measure their influence over the Azure consumption they drive with their customers. Those customers consume Azure services through a variety of means, such as PAYG through the web, purchasing on an Enterprise Agreement if they're a large organisation, or through a subscription model like the Cloud Solution Provider (CSP) programme. PAL allows a partner to be recorgnised regardless of which model the customer chooses. It even supports mutiple partners who work on a single customer's subscription. It's all driven by associating your Microsoft Partner Network ID (MPN ID) which makes it simple to apply and manage.
+Simply put, the PAL is there to make it easy for partners to measure their influence over the Azure consumption they drive with their customers. Those customers consume Azure services through a variety of means, such as PAYG through the web, purchasing on an Enterprise Agreement if they're a large organisation, or through a subscription model like the Cloud Solution Provider (CSP) programme. PAL allows a partner to be recognised regardless of which model the customer chooses. It even supports multiple partners who work on a single customer's subscription. It's all driven by associating your Microsoft Partner Network ID (MPN ID) which makes it simple to apply and manage.
 
 ## Sorting your MPN IDs out
 
