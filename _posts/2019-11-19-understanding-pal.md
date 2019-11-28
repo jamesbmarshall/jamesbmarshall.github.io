@@ -17,6 +17,12 @@ I will keep adding to this post as I find useful information or links relating t
 
 Simply put, the PAL is there to make it easy for partners to measure their influence over the Azure consumption they drive with their customers. Those customers consume Azure services through a variety of means, such as PAYG through the web, purchasing on an Enterprise Agreement if they're a large organisation, or through a subscription model like the Cloud Solution Provider (CSP) programme. PAL allows a partner to be recognised regardless of which model the customer chooses. It even supports multiple partners who work on a single customer's subscription. It's all driven by associating your Microsoft Partner Network ID (MPN ID) which makes it simple to apply and manage.
 
+## Why should you be interested in PAL?
+
+If you don't start using PAL you're leaving money on the table and making it much harder to demonstrate how amazing you are as a partner. Not all forms of PAL earn you money - that only applies if your customer is on the new Microsoft Customer Agreement (MCA) contract. However, all forms of PAL count towards your overall total "partner influenced Azure consumption". Check out the MCI <a href="#links">link below</a> to understand the commercial incentives that could apply to you.
+
+Tracking your overall influence is important because it highlights where you're being successful, helps you tell great stories about the transformative work you're doing, and helps raise your profile to Microsoft's CSP indirect providers (if you're an indirect reseller) and partner and sales teams. As customers choice of transaction model (web direct, CSP, or via an Enterprise Agreement) potentially changes over time it's critical that you're capturing the value you've added through PAL.
+
 ## Sorting your MPN IDs out
 
 Ensuring you're using the right MPN ID to track your impact is important. In my experience, lots of partners fail to fully understand the [structure of the MPN ID in Partner Center](https://docs.microsoft.com/en-gb/partner-center/account-structure), so it's worth investing some time to understand it.
@@ -31,7 +37,7 @@ Once you've configured your ID against the subscriptions and resources that you 
 
 If you've been around a while as a partner you might find that you have existing MPN IDs for separate businesses, or where someone has created multiple entities, you've been acquired or sold, etc. This can lead to some confusion in the overall structure and reporting. The best thing to do in this situation is to contact the [Regional Service Center](https://blogs.technet.microsoft.com/mpn_uk/2018/02/02/partner-support-number-changes-and-call-routing-guidance/) and get it all sorted out.
 
-## Useful Links
+## <a id="links"></a>Useful Links
 
 * PAL documentation: <br>
 [aka.ms/PartnerAdminLink](https://aka.ms/PartnerAdminLink)<br><br>
@@ -44,6 +50,6 @@ If you've been around a while as a partner you might find that you have existing
 * Build a Managed-Services Practice: <br>
 [aka.ms/ManagedServicesProvider](https://aka.ms/ManagedServicesProvider)<br><br>
 * Azure Management Portal: <br>
-[portal.azure.com](https://portal.azure.com)
-* Get Recognized for Driving Azure Consumption on-demand link: <br><br>
+[portal.azure.com](https://portal.azure.com)<br><br>
+* Get Recognized for Driving Azure Consumption on-demand link: <br>
 [aka.ms/PALWebcast](https://aka.ms/PALWebcast)
