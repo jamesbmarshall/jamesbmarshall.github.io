@@ -45,3 +45,5 @@ If you've been around a while as a partner you might find that you have existing
 [aka.ms/ManagedServicesProvider](https://aka.ms/ManagedServicesProvider)<br><br>
 * Azure Management Portal: <br>
 [portal.azure.com](https://portal.azure.com)
+* Get Recognized for Driving Azure Consumption on-demand link: <br><br>
+[aka.ms/PALWebcast](https://aka.ms/PALWebcast)
