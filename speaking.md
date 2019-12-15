@@ -10,12 +10,16 @@ I like to cover topics including:
  	<li>Digital Transformation</li>
  	<li>Digital Identity</li>
  	<li>Productivity</li>
- 	<li>Microsoft Office 365, Skype for Business</li>
+ 	<li>Microsoft 365</li>
  	<li>Microsoft Azure</li>
+	<li>The Microsoft partner channel</li>
+	<li>Cloud business model innovation</li>
 </ul>
 
 <h2>Previous Event Highlights</h2>
 <ul>
+	<li><strong>2019</strong> | <a href="https://hefocus.raeng.org.uk/eern-home/">UK & Ireland Engineering Education Research Network</a>, keynote</li>
+	<li><strong>2019</strong> | Bytes Microsoft 20:20 Vision, keynote</li>
 	<li><strong>2019</strong>&nbsp;| Arrow Vision Conference</li>
  	<li><strong>2018</strong>&nbsp;| <a href="http://www.ingrammicrocloud.co.uk/cloud-summit-2018/">Ingram Micro UK Cloud Summit</a>, "Your competitor did these 3 things, you'll never guess what happened next...".</li>
  	<li><strong>2018</strong> | Arrow ECS <a href="https://www.youtube.com/watch?v=K9d0Ec3S01w&amp;feature=youtu.be">The Future of Cloud Solutions</a>, keynote, digital transformation.</li>
