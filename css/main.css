@@ -89,7 +89,9 @@ img::-moz-selection {
 img {
   max-width: 100%;
 }
-
+img[src*="#thumbnail"] {
+  width:500px;
+}
 .disqus-comments {
   margin-top: 30px;
 }
