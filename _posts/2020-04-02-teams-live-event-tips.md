@@ -3,8 +3,8 @@ layout: post
 title: Tips For Running Really Awesome Microsoft Teams Live Events
 subtitle: What you need to know to make your Microsoft Teams Live Event stand out from the rest!
 summary: What you need to know to make your Microsoft Teams Live Event stand out from the rest!
-share-img: /img/kit.jpg
-image: /img/kit_square.jpg
+share-img: /img/livestream.jpg
+image: /img/livestream_square.jpg
 tags: [remote working, live events, streaming, Microsoft Teams, OBS, Voicemeeter]
 comments: true
 ---
