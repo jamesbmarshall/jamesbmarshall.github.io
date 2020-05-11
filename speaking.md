@@ -7,11 +7,9 @@ There's nothing I enjoy more than getting in front of an audience and talking ab
 
 I like to cover topics including:
 <ul>
- 	<li>Digital Transformation</li>
- 	<li>Digital Identity</li>
+ 	<li>Business continuity with cloud technology.</li>
+ 	<li>How SMBs can use technology to differentiate and succeed.</li>
  	<li>Productivity</li>
- 	<li>Microsoft 365</li>
- 	<li>Microsoft Azure</li>
 	<li>The Microsoft partner channel</li>
 	<li>Cloud business model innovation</li>
 </ul>
@@ -47,4 +45,8 @@ I like to cover topics including:
 <h2>Articles</h2>
 <ul>
  	<li><b>2017</b> | Fundraising Magazine - <a href="https://www.civilsociety.co.uk/fundraising/james-marshall-the-fundraising-sector-needs-to-utilise-big-data.html">The fundraising sector needs to utilise big data</a>&nbsp;(pay wall)</li>
+</ul>
+<h2>Publications</h2>
+<ul>
+	<li><b>2020</b> |  <a href="https://drive.google.com/file/d/1FszQQejQG6nzTS32Y2bNbVwJ-rdQoNYP/view">Excellence in Engineering Education for the 21st Century: The Role of Engineering Education Research</a> (ISBN: 978-0-9934245-7-1, section "Reflections on opportunities universities have to re-engage with students who drop out of their undergraduate journey")</li>
 </ul>
