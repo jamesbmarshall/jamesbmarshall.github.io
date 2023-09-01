@@ -5,7 +5,7 @@ subtitle: Interesting Stuff Newsletter
 summary: Interesting Stuff Newsletter '#004
 image: /img/sot_pirate.png
 share-img: /img/sot_pirate.png
-avatar-img: /img/sot_pirate_square.png
+avatar: /img/sot_pirate_square.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
 ---
