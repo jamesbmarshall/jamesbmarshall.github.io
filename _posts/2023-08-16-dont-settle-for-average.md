@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Don't Settle for Average
-subtitle: Interesting Stuff Newsletter
-summary: Don't Settle for Average
-image: /img/dont_settle_for_average.jpg
+subtitle: Interesting Stuff Newsletter &num;003
+image: /img/dont_settle_for_average_sq.jpg
 share-img: /img/dont_settle_for_average.jpg
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true

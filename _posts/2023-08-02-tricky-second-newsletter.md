@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The tricky second newsletter...
-subtitle: Interesting Stuff Newsletter
-summary: The tricky second newsletter...
+subtitle: Interesting Stuff Newsletter &num;002
 image: /img/second_newsletter.jpg
 share-img: /img/second_newsletter.jpg
 tags: [interesting stuff, azure, partner success, microsoft partners]
