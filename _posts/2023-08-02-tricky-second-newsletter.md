@@ -2,7 +2,7 @@
 layout: post
 title: The tricky second newsletter...
 subtitle: Interesting Stuff Newsletter &num;002
-summar: Explore Azure's success metrics, latest updates, and web insights with James Marshall, UK's SMB Azure Lead at Microsoft. Dive into customer satisfaction, lifetime value, churn management, and catch a podcast highlight on Azure migrations. Stay updated & engaged! 👋🏻😎
+summar: Explore Azure's success metrics and latest updates with James Marshall, UK SMB Azure Partner Suecess Lead at Microsoft. Dive into customer satisfaction, lifetime value, churn management, and catch a podcast highlight on Azure migrations. Stay updated & engaged! 👋🏻😎
 image: /img/second_newsletter.jpg
 share-img: /img/second_newsletter.jpg
 tags: [interesting stuff, azure, partner success, microsoft partners]
