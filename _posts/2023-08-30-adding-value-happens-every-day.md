@@ -3,8 +3,8 @@ layout: post
 title: Adding Value Happens Every Day
 subtitle: Interesting Stuff Newsletter '#004
 summary: Interesting Stuff Newsletter
-image: /img/sot_pirate_square.png
 share-img: /img/sot_pirate.png
+image: /img/sot_pirate_square.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
 ---
