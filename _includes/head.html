@@ -95,6 +95,14 @@
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
+  {% if page.summary %}
+  <meta name="og:description" content="{{ page.summary }}">
+  {% elsif page.subtitle %}
+  <meta name="og:description" content="{{ page.subtitle }}">
+  {% else %}
+  <meta name="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+  {% endif %}
+
 
   <!-- Twitter summary cards -->
   <meta name="twitter:site" content="@{{ site.author.twitter }}" />
