@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: James B Marshall
+  name: James Marshall
   twitter: jamesbmarshall
 
 # Select your active Social Network Links.
@@ -70,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "social@jamesbmarshall.com"
+ # email: "social@jamesbmarshall.com"
   github: jamesbmarshall
   twitter: jamesbmarshall
 #  reddit: yourname
@@ -249,7 +249,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-seo-tag
 
 webmaster_verifications:
   google: SlS9h9ffsJitbqZ7Gob_b2sI5YlzmoyHnPN7hU7GE30
