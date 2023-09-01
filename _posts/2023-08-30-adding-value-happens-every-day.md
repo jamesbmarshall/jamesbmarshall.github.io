@@ -3,6 +3,7 @@ layout: post
 title: Adding Value Happens Every Day
 subtitle: Interesting Stuff Newsletter &num;004
 share-img: /img/sot_pirate.png
+summary: James Marshall explores the importance of embracing change for Azure partners and businesses. While consistency is valued, seizing opportunities for innovation leads to growth. Understand your customers, anticipate their needs, and continually evolve. Plus, discover new Azure updates and insights on Sea of Thieves' Azure utilization. Stay curious! 👋🏻😎
 image: /img/sot_pirate_square.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true

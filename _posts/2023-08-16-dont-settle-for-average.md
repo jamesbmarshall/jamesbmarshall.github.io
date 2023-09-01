@@ -4,6 +4,7 @@ title: Don't Settle for Average
 subtitle: Interesting Stuff Newsletter &num;003
 image: /img/dont_settle_for_average_sq.jpg
 share-img: /img/dont_settle_for_average.jpg
+summary: Dive deeper into Azure success with James Marshall. Unravel key insights on effective Azure KPIs, balancing mean & median ACPC, and converting challenges into opportunities. Discover the latest Azure updates & expert takes from the community. Boost your Azure journey! 👋🏻😎
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
 ---
