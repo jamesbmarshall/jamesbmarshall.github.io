@@ -3,7 +3,7 @@ layout: post
 title: Always Learning
 subtitle: Interesting Stuff Newsletter &num;005
 share-img: /img/cubismcloud.png
-summary: James Marshall, UK's SMB Azure Partner Success Lead, shares insights on working smart, Azure updates & introduces the Cloud Target Calculator to optimize marketing & sales targets. Dive in for tips & Azure news! 😎 #Azure #Microsoft
+summary: James Marshall, UK's SMB Azure Partner Success Lead, shares insights on working smart, Azure updates & introduces the Cloud Target Calculator to optimize marketing & sales targets. Dive in for tips & Azure news! 😎
 image: /img/cubismcloudsquare.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
