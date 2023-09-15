@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Who the heck is this guy anyway?
+bigimg: "/img/fy24.png"
 ---
 
 Hi! I'm James and I am a [Senior Azure Partner Success Lead at Microsoft in the UK](https://www.linkedin.com/in/jamesbmarshall). I work with amazing people on how they can achieve their goals with the AWESOME power of Microsoft Azure.
