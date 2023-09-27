@@ -46,6 +46,11 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+figure {
+  font-size: small;
+  color: #808080;
+  text-align: center;
+}
 
 .main-content {
   padding-top: 80px;
