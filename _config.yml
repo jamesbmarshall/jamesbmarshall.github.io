@@ -23,6 +23,7 @@ description: The Azure Partner Success Guru
 
 # List of links in the navigation bar
 navbar-links:
+  🎯 Cloud Target Calculator: "https://targetcalculator.cloud"
   🙋‍♂️ About Me: "aboutme"
   🎙 Speaking: "speaking"
   🏠 Home: "http://jamesbmarshall.com"
