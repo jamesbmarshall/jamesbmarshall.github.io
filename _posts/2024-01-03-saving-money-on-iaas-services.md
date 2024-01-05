@@ -4,7 +4,7 @@ title: Saving Money on IaaS Services
 subtitle: Interesting Stuff Newsletter &num;013
 share-img: /img/saving.png
 summary: "Sell Azure solutions effectively in competitive markets by emphasizing business outcomes & partner value, offering unique propositions as a Microsoft CSP partner."
-image: /img/dollars_square.png
+image: /img/scales_square.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
 ---
