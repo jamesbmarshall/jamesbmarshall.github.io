@@ -1,73 +1,53 @@
 ---
 layout: post
-title: Saving Money on IaaS Services
-subtitle: Interesting Stuff Newsletter &num;013
-share-img: /img/saving.png
-summary: "Sell Azure solutions effectively in competitive markets by emphasizing business outcomes & partner value, offering unique propositions as a Microsoft CSP partner."
-image: /img/scales_square.png
+title: How to use Azure Savings Plans to Reduce Costs
+subtitle: Interesting Stuff Newsletter &num;014
+share-img: /img/savingsplan.png
+summary: "Explore Azure Savings Plans for cost-effective cloud computing. Optimize infrastructure and reduce costs with this innovative pricing model."
+image: /img/savingsplansquare.png
 tags: [interesting stuff, azure, partner success, microsoft partners]
 comments: true
 ---
 
-👋🏻 Happy New Year, and welcome to this edition of Interesting Stuff, your fortnightly dose of things I think you'll find interesting if you're in the world of Azure, partners, small businesses, and Microsoft. 
+Can you believe it's Wednesday already? And SO cold outside! 🥶 Welcome to this edition of Interesting Stuff, your fortnightly dose of things I think you'll find interesting if you're in the world of Azure, partners, small businesses, and Microsoft.
+
 I'm James Marshall, an Azure Success Manager at Microsoft, and if you find this content useful, please remember to subscribe and share this with your network. Thank you! 😎
 
 ## Some Thoughts
 
-I don't know about you, but I tend to start my working days with a coffee and a browse of the news. "*[UK economy will enter 'grey gloom' until polling day, economists say](https://on.ft.com/3ScxFYR)*", read the headline of the Financial Times yesterday. Happy New Year, my arse! 😒
+In my last edition, I wrote about how being creative with your virtual machines, you could achieve better savings than defaulting to a reserved instance.
 
-Still, it served as a reminder that things remain tough and cost management is just as important as ever. It got me thinking about Reserved Instances. They can be an attractive way to achieve some good savings in exchange for a one or three year commitment. But are they always the best way to save money on things like virtual machines? I fired up Excel to find out.
+In this post we'll look at how [Azure Savings Plans](https://azure.microsoft.com/en-us/pricing/offers/savings-plan-compute/) work, how they differ from reserved instances, and how they can help you optimise your infrastructure design and bring down your compute costs even further.
 
-### Using a Sledgehammer to Crack a Nut
+### What are Azure Savings Plans?
 
-In smaller businesses, particularly ones of a more traditional nature, it's pretty common for IT services to remain on all the time, even though they're not necessarily being used. Sometimes it's down to lack of awareness, or technical capability, but whatever the reason: under-used resources contribute to inefficiencies that increase costs.
+Azure Savings Plans are a flexible and simple way to save money on Azure compute services, such as virtual machines, Azure Kubernetes Service, Azure App Service, Azure Functions, and more. Unlike reserved instances, which require you to specify the instance type, size, region, and operating system upfront, Azure Savings Plans only require you to commit to a certain amount of usage per hour, measured in dollars, for a one or three-year term. You can then use any eligible compute service in any region and any operating system, and the savings will automatically apply to your usage.
 
-When these customers do their first migrations into the cloud, they tend to be a lift and shift approach mirroring their existing set up, just on Azure. If the cost topic comes up, many partners first response is "*you can save money on the VMs by buying an RI*", and that's as far as it goes. 
+For example, if you purchase a one-year Azure Savings Plan for $100/hour, you can use any combination of compute services that add up to $100/hour, such as 50 VMs in one region, 25 VMs in another region, and 25 Azure Kubernetes Service clusters in a third region. You will pay the discounted rate for the $100/hour usage, and the regular pay-as-you-go rate for any usage above that amount.
 
-I think that slapping a Reserved Instance on a subscription is like using a sledgehammer to crack a nut. Sure, you'll save some money, but you're paying for the VM to be on 100% of the time, and you're committing for 1 or 3 years. Yes, you can terminate early, but are they really the best way to save money?
+### How Azure Savings Plans Can Help You Optimise Your Infrastructure Design
 
-### Excel Time
+One of the benefits of Azure Savings Plans is that they allow you to save money on your compute services without compromising on your infrastructure design. You can still use the best compute service for your workload, and you can still scale up or down as needed. You can also take advantage of Azure's global network of regions and availability zones and choose the best location for your applications and data. You can also use different operating systems, such as Windows, Linux, or hybrid, and enjoy the same level of savings.
 
-Let's take a fictional simple single server scenario (I wish it was this simple in real life! 😂), using a DS3v2 general purpose VM. According to the [Azure Pricing Calculator](https://aka.ms/azurepricingcalc), deploying this in UK South without any adjustments like RIs, Azure Hybrid Use Benefit, managed disks, etc. it would cost approximately $430 per month*. That's based on it being allocated for 730 hours, or around 30.5 days.
+By using Azure Savings Plans, you can also improve your infrastructure design by following some good practices, such as:
 
-If you took out a one year Reserved Instance, you could bring that down to around $250 per month. Great! *But can we do better*?
+- **Right-sizing your compute resources**: You can use Azure Advisor, a free tool that provides personalised recommendations for optimising your Azure resources, to identify and resize any underutilised or overprovisioned compute resources. By right-sizing your compute resources, you can reduce your usage and your costs, and free up more capacity for your Azure Savings Plan.
 
-Well, let's assume that the services provided by this VM are required 24x7, but outside of working hours and at weekends, the amount of compute provisioned could be scaled down. We could [resize the VM](https://learn.microsoft.com/en-us/azure/virtual-machines/resize-vm?tabs=portal) from a DS3v2 to a DS1v2 using Azure Automation**.
+- **Using spot instances**: You can use Azure Spot Virtual Machines, which offer up to 90% discounts on pay-as-you-go prices, for your interruptible or non-critical workloads, such as dev/test, batch processing, or backup. By using spot instances, you can lower your compute costs and your Azure Savings Plan commitment, and only pay for the compute resources you need.
 
-In this example, we'll say that between 7pm and 7am weekdays, and all weekend are 'off peak' where the DS1v2 would be sufficient to cover the needs of users. That's around 462 hours per month off peak, and 268 peak.
-Running the DS3v2 VM for 268 hours comes to $157.58 per month, and the DS1v2 for 462 hours would be $67.91 per month. That's $225.50 per month combined - or a saving of around $24.40 per month vs. simply putting the DS3v2 into a one year RI.
+- **Using hybrid benefits**: You can use Azure Hybrid Benefit, which allows you to use your existing eligible Windows Server and SQL Server licenses on Azure. By using hybrid benefits, you can lower your operating system costs and your Azure Savings Plan commitment and maximise the value of your existing licenses.
 
-Across a year, that could amount to an approximate $293 saving! If you can do this to multiple VMs, the savings grow accordingly. 
+By following these good practices, you can not only save money on your Azure compute services, but also improve your infrastructure design and performance, and deliver better value to your organisation.
 
-The savviest partners recognise that those savings could be put towards tackling the next business challenge that customer is facing, bringing forward projects and creating opportunities to land more professional services sooner.
+### Conclusion
 
-### Doing in For Real
-
-Obviously, there'll be more to consider in a real world scenario. More servers, complex applications, different peaks and troughs in use, storage and resilience requirements, security considerations, even customer perceptions to adjust for. It just might not be possible to change the size of a virtual machine. There are always [trade-offs](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/tradeoffs).
-
-If you want to know more about the best way to think about a cost saving initiative, check out the video in the next section!
-
-The point is that by moving beyond the lift-and-shift migration into a little bit of optimisation *before* implementing Reserved Instances you can potentially achieve considerable savings that retain the flexibility of the cloud but without needing to make a one or three year commitment.
-
-Those savings can open up new opportunities, might mean the difference between the customer staying in the cloud or reverting back to an on-premises deployment, or even switching to a more innovative partner.
-
-### In Summary
-
-Reserved Instances are a great way to control costs for workloads that need to be on 24x7, but they're not the only way to approach the challenge. Using automation and some basic scripting, it's possible to resize virtual machines to provide the right amount of resource at the right time. 
-
-In this article we looked at a scheduled approach, but the same theory could be applied to resource usage, triggering up/down sizing based on real-time use, or triggered by other events.
-
-Every customer will have slightly differing requirements, but a little creativity in solution design can result in even better cost savings and flexibility than an RI alone.
-
--
-_*Your costs may vary, based on your licensing with Microsoft, whether you buy directly or on CSP, etc._
-_**I'm not covering the technical details of how you might do this since this is just a high level 'thought exercise', but there is lots of good documentation and lots of blogs out there on how to script this type of resizing using PowerShell, Logic Apps, etc. Like this one!_
+Azure Savings Plans are a fairly new pricing model that offers significant discounts on Azure compute services in exchange for a commitment of a consistent amount of usage for a one or three-year term. Azure Savings Plans can help lower compute costs compared to pay-as-you-go rates and reserved instances. Azure Savings Plans can also help you optimise your infrastructure design and performance, by allowing you to use any eligible compute service in any region and any operating system, and by following some best practices, such as right-sizing, using spot instances, and using hybrid benefits.
 
 ## Interesting Stuff from Others
 
-Like a lot of people, I'm a big fan of John Savill and his Azure content. Before Christmas he posted a video that I wish I could sum up and wear as a t-shirt, all about the right way to think about cost savings and what NOT to do. Check it out!
+One of the best videos to recap and expand on reserved instances and Azure Savings Plans is from [John Savill](https://www.linkedin.com/in/john-savill/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B%2BwNx2uLbQr2tjCW6VysLGw%3D%3D). If you're struggling to get your head around the conceptual differences and where they work together, you should check it out!
 
-{% include youtubeplayer.html id="a1txqsKSafk" %}
+{% include youtubeplayer.html id="lBnKBV2r6lI" %}
 
 ## Until next time...
 
